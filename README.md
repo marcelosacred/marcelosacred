@@ -7,7 +7,7 @@ Frontend Developer
 I have been developing web applications using Next.js for the past three years. During this time, I have gained extensive experience in creating high-performance and scalable applications that meet the needs of both clients and end-users. My journey in development began with learning the fundamentals of JavaScript and React, after which I delved into the Next.js ecosystem, which provides numerous capabilities for building server-side rendered and static applications.
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [https://t.me/marcelosacred](mailto:https://t.me/marcelosacred)
+* ✉️  You can contact me at [https://t.me/marcelosacred](https://t.me/marcelosacred)
 
 ### Skills
 
